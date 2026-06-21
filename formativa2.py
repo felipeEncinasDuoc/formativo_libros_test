@@ -6,7 +6,6 @@ inventario=[
      "disponible":False
      }
 ]
-
 def print_menu():
     print("========== MENÚ PRINCIPAL ==========")
     print("1. Agregar libro")
